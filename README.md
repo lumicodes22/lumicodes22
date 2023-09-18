@@ -1,5 +1,5 @@
 - 👋 Hi, I’m lumicodes
-- 👀 I’m interested in Software Engineering
+- 👀 I’m interested in full stack web dev.
 - 🌱 I’m currently learning Javascript and CSS
 - 💞️ I’m looking to collaborate on any open source project
 - 📫 How to reach me https://twitter.com/Lumicodes1
